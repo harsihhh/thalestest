@@ -14,12 +14,15 @@
     </properties>
     <build>
         <plugins>
+		<properties>
+        <java.home>/usr/java/jdk1.8.0_45/bin/javac</java.home>
+  </properties>
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.5.0</version>
                 <configuration>
-                    <source>10</source>
-                    <target>10</target>
+                    <source>1.8</source>
+                    <target>1.8</target>
                 </configuration>
             </plugin>
             <plugin>
