@@ -21,7 +21,3 @@ pipeline {
 
   }
 }
-demo production added
-}
-}
-{
