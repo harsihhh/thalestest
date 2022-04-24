@@ -1,4 +1,4 @@
-pipeline { this is the changes of file
+pipeline {
   agent any
   stages {
     stage('Test') {
