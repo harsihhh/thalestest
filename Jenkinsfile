@@ -1,4 +1,4 @@
-pipeline {
+pipeline this is the testing for reset{
   agent any
   stages {
     stage('Test') {
