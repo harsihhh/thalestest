@@ -1,5 +1,5 @@
 pipeline {
-  agent any
+  agent anykjsbjsbjsdbvkjfdjlvdfvjbskjvbskjssssssssbvkjsbvkjsbvkjsbvkjskvjbskjvbw
   stages {
     stage('Test') {
       parallel {
